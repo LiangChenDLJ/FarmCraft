@@ -1,0 +1,9 @@
+newmtl House24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd House_24_co.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks House_24_sp.jpg
